@@ -1,0 +1,40 @@
+.swiper-container {
+  height: 100%;
+  filter: brightness(0.8);
+
+  &.disabled {
+    .swiper-wrapper {
+      transform: translate3d(0px, 0, 0) !important;
+    }
+  }
+
+  .swiper-slide img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+}
+
+.prev,
+.next {
+  width: 8rem;
+  z-index: 10;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  display: flex;
+
+  @media (max-width: 1250px) {
+    width: 6rem;
+  }
+}
+.prev {
+  left: 4rem;
+  img {
+    transform: rotate(180deg);
+  }
+}
+.next {
+  right: 4rem;
+}

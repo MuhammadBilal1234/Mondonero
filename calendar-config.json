@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mondonero",
+  "private_key_id": "4badf7348f451f4b3a440c1a0526f94fe1979453",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXRs8ftpxqjbgf\nUtdbhHcycuMwAbxGLsEhv8O2rURUI3PCym3oIkffKWUEqjb9XU+bvdK/+ZcEbRhz\nJHO0NO0eFnbcG3Xc0ffnWT3gGDpu+r+v86cZ+Shq8jfhF8/qZXDiN2UXnNaVguLh\nKMYWZqAJfCwEfDWs9uRt+und0JqnoQTreIZ0cVHLbEySwB3no86rm7MHbpU4CEta\nfeiLb/IL8WdZYb32KKGcdwF+NOClRSKkce7FbYILLCIyl7xrvU49glZXT/SsKeCw\nq9JIQKe7Fm5NQveYWfKXjMQ5Ee2m85eiOD/DLjT54rz7b4WwNAM+1cBjVbqd2I/Q\n2PUjFBtzAgMBAAECggEAZRyDfRw6lEtzDvdMYlYx3BadAXfXM8mS+aSFqp/wB2rN\nXNDSVWUAh9777Ph7sn3ovbgnK/bxSOlqwe39kEcJlgesFQ6qyagu/VDroH0QuP56\nGQziT+84Xh7dQxJ5m9jAb+ffyfrmyLt8j4+klnHmOf5B+GtUlKQzvzpKLN5lPVSl\niO/u2iFvcf2hn1l4cJ6lFQx79pgRP4JJqLsD+zYDmtScjhVoUhrzDuUjBC0XaScV\nsxoUb+3h8Go7P+mcCIAWEQM14iT+ziPyQLXaCZDMWH8w1DkpWtH5699tgeVJULqe\nicGrearrUyVMG4Ourb8aoR/2TU3GeXrBjWwG6/A7qQKBgQDx2eqAaedIauT6W8Gn\neO8qiEpfSDRktuFLvtiYqgDYocO3KA0WrPJu+8rxSqPTw5GleZUaK5QV1xcARREm\nS0HVGOH5vxPlBueW2Rlirrd1Pt9E/OXxBCRT92l1ZsZW6mWRyUjzI5p8hckhtuqz\nwA19TRwsyE6eSrBHwCrxoe49mQKBgQDj3uXrk7Mg9Jo0B5JNP1qYQYcJQxm9NJ0U\n3YMuyWDFauRT5p0ouxxQnE3iyiwrEKUKOJMS2e077lIfHqhfl+4AcCTNNTrLEbb3\n3x1H6cj0IfEVEVKv+jtLM79yQZQQE6sd1XClklZ2zAKxI0/jDe4f6ctQAV9LVkDe\nmHyCisgQ6wKBgQC45hlaQ50GyHJ21V+gYdy3b6ssXU9xED/+YNHHJXGwLTwr8vrO\nszpFj0sAXkgRxhq7n9BWSarVZ7O2CRerZy3VdUiOX38eQcEcmq3FvD2V7ZNUcuR4\n9umvKCAAGarZGCq+4lxbRoT9Xmr+05FsCxBFE4bO1fUFH6TVth0ezuYNQQKBgDPe\nmyuitVW9GBTb3FulHjQmRly/X26IOXF0ctYFlPebO1o11nRdEzbuPXRwXNl4sni/\nJAtYe/32Y88dpWoNJWoIHPhxM27iG2oU6Y9jEhEwYLZQ+SeBqFmX7+5MKy31rC/g\nVAH8a54jFkHILfkbRKcTCuqtRUna2m1Q/JaijKP9AoGBAJx59gj5MWBvTvye1nf/\nG9Ak31QiGoH5RhcN7TPnhXU32P47HTRlGTQyiaOOnjLgWwsKRvL4aWhJ48PL+OpH\nhgzr/EGMelSIz483US3IieK0sL5mZqy7CbSKoiH0hhY1SCWKGSRicuU5Jur++R1/\nusppTIbh4JfmJzj3HBQlOiC+\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-calendar@mondonero.iam.gserviceaccount.com",
+  "client_id": "110310086662898002355",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-calendar%40mondonero.iam.gserviceaccount.com"
+}
